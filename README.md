@@ -1,3 +1,3 @@
-I'm Lucia Cristiano, a Software Engineering Student.
+I'm Lucia Cristiano, a Software Engineer II.
 
-I am interested in full-stack web development and have a passion for making the web accessible to everyone
+I am interested in back-end development and have a passion for AI applications and training.
